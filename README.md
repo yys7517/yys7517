@@ -2,6 +2,8 @@
 ### Introduction
 안녕하세요! 예비 주니어 안드로이드 개발자 윤영선입니다.
 
+[My Profile](https://gamma.app/docs/-w3g734kvrc64mny)
+
 ### Contact Me
 <a href='mailto:yys7517@naver.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -37,6 +39,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yys456)](https://solved.ac/yys456/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yys7517)](https://github.com/anuraghazra/github-readme-stats)
 <!--
