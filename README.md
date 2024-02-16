@@ -2,7 +2,7 @@
 ### Introduction
 안녕하세요! 예비 주니어 안드로이드 개발자 윤영선입니다.
 
-[My Profile](https://gamma.app/docs/-w3g734kvrc64mny)
+[My Profile](https://gamma.app/public/-w3g734kvrc64mny)
 
 ### Contact Me
 <a href='mailto:yys7517@naver.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black'/></a>
