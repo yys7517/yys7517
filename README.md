@@ -2,7 +2,7 @@
 ### Introduction
 안녕하세요! 주니어 개발자 윤영선입니다.
 
-[My Profile](https://gamma.app/public/-w3g734kvrc64mny)
+[Portfolio](https://clumsy-pastry-6e3.notion.site/d1836ab5e7554c61be9cab044bd3d1ea?source=copy_link)
 
 ### Contact Me
 <a href='mailto:yys7517@naver.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black'/></a>
