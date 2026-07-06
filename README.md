@@ -12,14 +12,9 @@
 ### Tech Blog
 <a href='https://velog.io/@yys7517/posts' target="_blank"><img alt='Velog' src='https://img.shields.io/badge/Velog-100000?style=flat-square&logo=Velog&logoColor=white&labelColor=black&color=black'/></a>
 
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yys7517)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ![image](이미지링크)
     <img src = "이미지링크" width = "100" height = "100">
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yys7517)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 #### Architecture
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/MVVM-100000?style=for-the-badge&logo=&logoColor=white&labelColor=A1C4FF&color=3670A0'/></a>
@@ -47,7 +42,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 
 
 - 🌱 I’m currently learning ...
